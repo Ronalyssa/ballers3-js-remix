@@ -1,0 +1,28 @@
+{
+  "ballers": [
+    {
+      "id": 1,
+      "name": "D-Rock-From-The-Block",
+      "image": "https://i.ibb.co/bb73Qtc/d-rock-baller3.png",
+      "cash": 11500000
+    },
+    {
+      "id": 2,
+      "name": "Big Money Max",
+      "image": "https://i.ibb.co/Gx3kGGN/max-baller3.png",
+      "cash": 16600000
+    },
+    {
+      "id": 3,
+      "name": "Rich Ronalyssa",
+      "image": "https://i.ibb.co/xg1RcRH/rona-baller3.png",
+      "cash": 17700000
+    },
+    {
+      "id": 4,
+      "name": "Ballin Broderick",
+      "image": "https://i.ibb.co/PwqCFG2/brod-baller3.png",
+      "cash": 17800000
+    }
+  ]
+}
